@@ -1,0 +1,64 @@
+html{
+  height: 100%;
+}
+h1 {
+  margin: 0;
+}
+.Site {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.Site-header{
+  background-color: #155E91;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Site-nav ul{
+   list-style: none;
+   display: flex;
+   margin: 0;
+}
+.Site-nav a {
+   text-transform: uppercase;
+   text-decoration: none;
+   padding: 25px;
+   display: inline-block;
+   color: white;
+}
+
+.Site-nav .active a {
+   font-weight: bold;
+   color:#20AA76;
+}
+
+.Site-content{
+  flex: 1 0 auto;
+  width: 80%;
+  margin: auto;
+}
+.Site-footer{
+  display: flex;
+  width: 100%;
+  margin: auto;
+  height: 70px;
+  align-items: center;
+  background-color: #155E91;
+  color: white;
+}
+
+.logo{
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  letter-spacing: 3px;
+  margin-right: 15px;
+}
+.quote{
+  font-size: 0.75rem;
+  text-align: center;
+}
