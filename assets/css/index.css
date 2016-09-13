@@ -15,7 +15,7 @@ h1 {
   color: white;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 .Site-nav ul{
    list-style: none;
@@ -49,7 +49,9 @@ h1 {
   background-color: #155E91;
   color: white;
 }
-
+.logocontainer{
+  display: flex;
+}
 .logo{
   text-decoration: none;
   color: white;
