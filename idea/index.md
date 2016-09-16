@@ -8,9 +8,10 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 <aside>
   <ul> 
-    <li><a href = "#0"> Objective </a></li>
-    <li><a href = "#0"> Concepts </a></li>
+    <li><a href = "#0"> Who are we? </a></li>
+    <li><a href = "#0"> Concepts </a></li> - AC, PACO, What is the ALU good for?, explain LUT, Which approximation do we exploit?
+    <li><a href = "#0"> Technology </a></li> - CLANG, RISCV
     <li><a href = "#0"> Outcome </a></li>
-    <li><a href = "#0"> Related Work </a></li>
+    <li><a href = "#0"> DEmo example </a></li> / Objective
   </ul>
 </aside> 
